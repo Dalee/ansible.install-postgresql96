@@ -1,0 +1,15 @@
+galaxy_info:
+  author: "Dalee Dev"
+  company: Dalee
+  role_name: "install_postgresql96"
+  license: BSD
+  description: "PostgreSQL 9.6 for Vagrant and Docker"
+  min_ansible_version: 2.2
+  platforms:
+   - name: Ubuntu
+     versions:
+      - trusty
+      - xenial
+  categories:
+   - system
+dependencies: []
